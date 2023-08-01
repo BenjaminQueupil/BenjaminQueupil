@@ -1,11 +1,10 @@
 <h1 align="center">Hola 👋, soy Benjamín Antonio Queupil Pizarro</h1>
 <h3 align="center">Un desarrollador frontend y backend apasionado.</h3>
 
-- 📫 Cómo contactarme **queupil @duocuc.cl**
-
 - 📄 Conoce mi Cv : [file:///C:/Users/queup/OneDrive/Escritorio/PRACTICA/Benjamin%20Queupil.pdf.pdf]
 
 <h3 align="left">Conéctese conmigo:</h3>
+- 📫 Cómo contactarme **queupil @duocuc.cl**
 <p align="left">
 </p>
 
