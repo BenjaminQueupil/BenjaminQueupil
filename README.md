@@ -3,7 +3,7 @@
 
 - 📫 Cómo contactarme **queupil @duocuc.cl**
 
-- 📄 Conoce mis experiencias [file:///C:/Users/queup/OneDrive/Escritorio/PRACTICA/Benjamin%20Queupil.pdf.pdf](file:///C:/Users/ queup/OneDrive/Escritorio/PRACTICA/Benjamin%20Queupil.pdf.pdf)
+- 📄 Conoce mi Cv : [file:///C:/Users/queup/OneDrive/Escritorio/PRACTICA/Benjamin%20Queupil.pdf.pdf]
 
 <h3 align="left">Conéctese conmigo:</h3>
 <p align="left">
